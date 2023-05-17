@@ -5,5 +5,6 @@ img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
 img.shape
 
+
 plt.imshow(img)
 plt.show()
